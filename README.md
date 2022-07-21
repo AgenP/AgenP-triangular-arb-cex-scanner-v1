@@ -35,8 +35,4 @@ If one wants to change the details I would recommend ineracting with the ccxt do
 2. Minimise/Avoid print statements to save precious time if trading
    - Then verify that the true arbitrage = predicted arbitrage - Ideally on a sandbox exchange first
      ...
-# backend-crypto-exchange-v1
-# backend-crypto-exchange-v1
-# triangular-arb-scanner-cex-v1
 # triangular-arb-cex-scanner-v1
-# AgenP-triangular-arb-cex-scanner-v1
