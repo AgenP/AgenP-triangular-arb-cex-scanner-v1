@@ -5,13 +5,14 @@ that tracks forward and reverse arbitrage rates, for pairs that fit a general fo
 
 Has the potential to execute trades programmatically.
 
-# Installation
+## Installation
 
 ```bash
 pip (I used pip3) install ccxt
 ```
 
-# Usage
+## Usage
+
 Using token a, token b, token c the general formula for pair choice is:
 a/b, c/b, c/a --> see arb_ku_test for an example
 
