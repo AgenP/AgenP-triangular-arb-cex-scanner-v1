@@ -8,7 +8,7 @@ Has the potential to execute trades programmatically.
 ## Installation
 
 ```bash
-pip (I used pip3) install ccxt
+pip install ccxt (I used pip3)
 ```
 
 ## Usage
